@@ -1,18 +1,18 @@
 {
   "basics": {
-    "name": "Albert Einstein",
-    "label": "Scientist",
+    "name": "Buddhi Perera",
+    "label": "PhD Student",
     "image": "",
-    "email": "albert@einstein.de",
-    "phone": "(912) 123-4567",
-    "url": "https://alshedivat.github.io/al-folio/",
+    "email": "buddhiperera97@gmail.com",
+    "phone": "(929) 628-4317",
+    "url": "https://buddhiperera.me",
     "summary": "A German-born theoretical physicist, widely ranked among the greatest and most influential scientists of all time",
     "location": {
-      "address": "2712 Broadway St",
-      "postalCode": "CA 94115",
-      "city": "San Francisco",
+      "address": "370 Jay Street, 10th Floor",
+      "postalCode": "NY 11201",
+      "city": "Brooklyn",
       "countryCode": "US",
-      "region": "California"
+      "region": "New York"
     },
     "profiles": [
       {
@@ -24,13 +24,103 @@
   },
   "work": [
     {
-      "name": "Institute for Advanced Study, Princeton University",
-      "position": "Professor of Theoretical Physics",
+      "name": "NYU Tandon School of Engineering",
+      "position": "Graduate Assistant - Electrical and Computer Engineering",
       "url": "https://example.com",
-      "startDate": "1933-01-01",
-      "endDate": "1955-01-01",
+      "startDate": "2024 Oct",
+      "endDate": "2024 Dec",
       "summary": "Teaching at Palmer Physical Laboratory (now 302 Frist Campus Center). While not a professor at Princeton, I associated with the physics professors and continued to give lectures on campus.",
-      "highlights": ["Relativity"]
+      "highlights": [
+        "Relativity"
+      ]
+    },
+    {
+      "name": "SiFive",
+      "position": "Paraqum Tech Contractor",
+      "url": "https://www.ce.pdn.ac.lk",
+      "startDate": "2023 Jun",
+      "endDate": "2024 Aug",
+      "summary": "Teaching at Palmer Physical Laboratory (now 302 Frist Campus Center). While not a professor at Princeton, I associated with the physics professors and continued to give lectures on campus.",
+      "highlights": [
+        "Relativity"
+      ]
+    },
+    {
+      "name": "Paraqum Technologies",
+      "position": "Hardware Engineer",
+      "url": "https://www.ce.pdn.ac.lk",
+      "startDate": "2023 Sep",
+      "endDate": "2024 Aug",
+      "summary": "Teaching at Palmer Physical Laboratory (now 302 Frist Campus Center). While not a professor at Princeton, I associated with the physics professors and continued to give lectures on campus.",
+      "highlights": [
+        "Relativity"
+      ]
+    },
+    {
+      "name": "Paraqum Technologies",
+      "position": "Associate Hardware Engineer",
+      "url": "https://www.ce.pdn.ac.lk",
+      "startDate": "2023 Aug",
+      "endDate": "2023 Mar",
+      "summary": "Teaching at Palmer Physical Laboratory (now 302 Frist Campus Center). While not a professor at Princeton, I associated with the physics professors and continued to give lectures on campus.",
+      "highlights": [
+        "Relativity"
+      ]
+    },
+    {
+      "name": "Syeta Labs, Sri Lanka",
+      "position": "Junior Software Engineer",
+      "url": "https://www.ce.pdn.ac.lk",
+      "startDate": "2022 Nov",
+      "endDate": "2023 Mar",
+      "summary": "Teaching at Palmer Physical Laboratory (now 302 Frist Campus Center). While not a professor at Princeton, I associated with the physics professors and continued to give lectures on campus.",
+      "highlights": [
+        "Relativity"
+      ]
+    },
+    {
+      "name": "University of Peradeniya",
+      "position": "Teaching Assistant - Department of Computer Engineering",
+      "url": "https://www.ce.pdn.ac.lk",
+      "startDate": "2022 Sep",
+      "endDate": "2023 Jan",
+      "summary": "Teaching at Palmer Physical Laboratory (now 302 Frist Campus Center). While not a professor at Princeton, I associated with the physics professors and continued to give lectures on campus.",
+      "highlights": [
+        "Relativity"
+      ]
+    },
+    {
+      "name": "LSEG Technology, Sri Lanka",
+      "position": "Intern - Hardware Accelerated Systems",
+      "url": "https://www.ce.pdn.ac.lk",
+      "startDate": "2022 Jan",
+      "endDate": "2022 Jun",
+      "summary": "Teaching at Palmer Physical Laboratory (now 302 Frist Campus Center). While not a professor at Princeton, I associated with the physics professors and continued to give lectures on campus.",
+      "highlights": [
+        "Relativity"
+      ]
+    },
+    {
+      "name": "University of Peradeniya",
+      "position": "Teaching Assistant - Department of Computer Engineering",
+      "url": "https://www.ce.pdn.ac.lk",
+      "startDate": "2021 Jun",
+      "endDate": "2021 Oct",
+      "summary": "Teaching at Palmer Physical Laboratory (now 302 Frist Campus Center). While not a professor at Princeton, I associated with the physics professors and continued to give lectures on campus.",
+      "highlights": [
+        "Relativity"
+      ]
+    },
+    {
+      "name": "University of Peradeniya",
+      "position": "Teaching Assistant - Department of Computer Engineering",
+      "url": "https://www.ce.pdn.ac.lk",
+      "startDate": "2020 Jul",
+      "endDate": "2020 Dec",
+      "summary": "Teaching at Palmer Physical Laboratory (now 302 Frist Campus Center). While not a professor at Princeton, I associated with the physics professors and continued to give lectures on campus.",
+      "highlights": [
+        "Relativity"
+      ]
     }
   ],
   "volunteer": [
@@ -42,29 +132,47 @@
       "startDate": "2014-04-01",
       "endDate": "2015-07-01",
       "summary": "Lead organizer for the New York City branch of the People's Climate March, the largest climate march in history.",
-      "highlights": ["Awarded 'Climate Hero' award by Greenpeace for my efforts organizing the march.", "Men of the year 2014 by Time magazine"]
+      "highlights": [
+        "Awarded 'Climate Hero' award by Greenpeace for my efforts organizing the march.",
+        "Men of the year 2014 by Time magazine"
+      ]
     }
   ],
   "education": [
     {
-      "institution": "University of Zurich, Zurich, Switzerland",
-      "location": "Zurich, Switzerland",
+      "institution": "New York University",
+      "location": "New York, USA",
       "url": "https://www.uzh.ch/",
-      "area": "Software Development",
+      "area": "Electical and Computer Engineering",
       "studyType": "PhD",
-      "startDate": "1905-01-01",
-      "endDate": "1905-01-01",
+      "startDate": "Sep 2024",
+      "endDate": "Present",
       "score": "10",
-      "courses": ["Theory of Relativity"]
+      "courses": [
+        "Theory of Relativity"
+      ]
+    },
+    {
+      "institution": "University of Peradeniya",
+      "location": "Kandy, Sri Lanka",
+      "url": "https://www.ce.pdn.ac.lk",
+      "area": "Computer Engineering",
+      "studyType": "Bachelor of the Science of Engineering Honours - B.Sc Eng(Hons)",
+      "startDate": "Nov 2017",
+      "endDate": "Feb 2023",
+      "score": "3.95/4.0",
+      "courses": [
+        "Computer Architecture, Advanced Computer Architecture, Operating Systems, Compilers"
+      ]
     }
   ],
   "awards": [
     {
-      "title": "Nobel Prize in Physics",
-      "date": "1921-11-01",
-      "awarder": "Royal Swedish Academy of Sciences",
-      "url": "https://www.nobelprize.org/prizes/physics/1921/einstein/biographical/",
-      "summary": "The Nobel Prizes are five separate prizes that, according to Alfred Nobel's will of 1895, are awarded to 'those who, during the preceding year, have conferred the greatest benefit to humankind.'"
+      "title": "IFS Gold Medal for Excellence in Computer Engineering",
+      "date": "2023",
+      "awarder": "University of Peradeniya",
+      "url": "",
+      "summary": "The IFS Gold Medal for Excellence in Computer Engineering is awarded to the student with the highest Grade Point Average in the branch of Computer Engineering at the BSc Engineering programme."
     }
   ],
   "certificates": [
@@ -151,7 +259,7 @@
   ],
   "languages": [
     {
-      "language": "German",
+      "language": "Sinhala",
       "fluency": "Native speaker",
       "icon": ""
     },
@@ -191,7 +299,10 @@
     {
       "name": "Quantum Computing",
       "summary": "Quantum computing is the use of quantum-mechanical phenomena such as superposition and entanglement to perform computation. Computers that perform quantum computations are known as quantum computers.",
-      "highlights": ["Quantum Teleportation", "Quantum Cryptography"],
+      "highlights": [
+        "Quantum Teleportation",
+        "Quantum Cryptography"
+      ],
       "startDate": "2018-01-01",
       "endDate": "2018-01-01",
       "url": "https://example.com"
